@@ -20,7 +20,6 @@ tables.station = new StationRepository();
 tables.reservation = new ReservationRepository();
 
 /* ************************************************************************* */
-
 // Use a Proxy to customize error messages when trying to access a non-existing table
 
 // Export the Proxy instance with custom error handling
